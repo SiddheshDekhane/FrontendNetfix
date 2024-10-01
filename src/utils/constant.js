@@ -1,4 +1,4 @@
-export const API_END_POINT = "https://netflix-gxnc.onrender.com/api/v1/user";
+export const API_END_POINT = "https://backendnetfilx.onrender.com";
 
 export const options = {
     method: 'GET',
